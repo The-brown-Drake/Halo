@@ -1,4 +1,4 @@
-# Halo
+https://cylix.guide/item/002-001-reach-aacf68b1# Halo
 Last Modified: 10/17/2023 Compare Versions
 O,
 "Ldentitier": 975563451
@@ -56,3 +56,7 @@ S
 "translations": t+
 hLsghtingscalaroverride": 
 Halo
+
+https://cylix.guide/item/002-001-fwl-24775fbe
+
+https://account.xbox.com/en-us/Profile?xr=mebarnav&rtc=1
